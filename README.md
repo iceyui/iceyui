@@ -57,7 +57,7 @@ Halo! Saya **Syahbandi**, seorang DevOps yang gemar membangun alat bantu otomati
 
 ## 📬 Kontak
 
-- 📫 Email: _prasas.ona@gmail.com_  
+- 📫 Email: _syahbandi@iceyuki.com_  
 - ☕ Ngobrol santai soal script & automasi? DM aja!
 
 ---
