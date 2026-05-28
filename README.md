@@ -1,4 +1,4 @@
-# 👨‍💻 Iceyui – DevOps
+# Iceyui – DevOps
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iceyuid&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iceyui&layout=compact&theme=tokyonight)
@@ -7,11 +7,11 @@
 
 ---
 
-## 👋 Tentang Saya
+## Tentang Saya
 
 Halo! Saya **Syahbandi**, seorang DevOps yang gemar membangun alat bantu otomatisasi menggunakan **JavaScript** dan **Python**. Fokus utama saya adalah membuat hidup (dan pekerjaan) jadi lebih praktis dan efisien.
 
-🧠 **Spesialisasi:**
+**Spesialisasi:**
 - Otomatisasi via Google Apps Script (spreadsheet, drive, form)
 - Bot Telegram & sistem internal perusahaan
 - Konversi file dan integrasi sistem perpajakan
@@ -21,7 +21,7 @@ Halo! Saya **Syahbandi**, seorang DevOps yang gemar membangun alat bantu otomati
 
 ---
 
-## 🚀 Tools & Tech Stack
+## Tools & Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python]( https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -34,21 +34,7 @@ Halo! Saya **Syahbandi**, seorang DevOps yang gemar membangun alat bantu otomati
 
 ---
 
-## 🧪 Proyek Unggulan
-
-| # | Project | Deskripsi Singkat | Link |
-|---|---------|-------------------|------|
-| 1 | **Renamerged** | Rename otomatis faktur pajak keluaran berdasar nama dalam PDF. | [GitHub](https://github.com/iceyui/renamerged) |
-| 2 | **Bot Cek Stok** | Bot Telegram untuk cek stok internal perusahaan. | [GitHub](https://github.com/iceyui/bot-CekStok) |
-| 3 | **Corestress** | Konversi file raw ke format Coretax. | [GitHub](https://github.com/iceyui/Corestress) |
-| 4 | **Corestress V2** | Versi lanjutan dengan spreadsheet, tanpa DB lokal. | Belum dirilis |
-| 5 | **Excel to XML Coretax** | Konversi Excel ke format XML untuk Coretax. | Belum dirilis |
-| 6 | **Auto Input KTP/NPWP** | Upload otomatis foto KTP/NPWP ke Drive + spreadsheet. | [GitHub](https://github.com/iceyui/bot-AutoInputKTPNPWP) |
-| 7 | **TikTok Downloader Bot** | Unduh video TikTok tanpa watermark + audio terpisah. | [GitHub](https://github.com/iceyui/Tiktok_Downloader) |
-
----
-
-## 🌟 Statistik & Aktivitas
+## Statistik & Aktivitas
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=iceyui&theme=tokyonight&hide_border=false)
 ![Trophies](https://github-profile-trophy.vercel.app/?username=iceyui&theme=tokyonight&row=1&no-frame=true&margin-w=10)
@@ -57,8 +43,8 @@ Halo! Saya **Syahbandi**, seorang DevOps yang gemar membangun alat bantu otomati
 
 ## 📬 Kontak
 
-- 📫 Email: _syahbandi@iceyuki.com_  
-- ☕ Ngobrol santai soal script & automasi? DM aja!
+- Email: _syahbandi@iceyuki.com_  
+- Ngobrol santai soal script & automasi? DM aja!
 
 ---
 
