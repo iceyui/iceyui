@@ -12,7 +12,6 @@
 Halo! Saya **Syahbandi**, seorang DevOps yang gemar membangun alat bantu otomatisasi menggunakan **JavaScript** dan **Python**. Fokus utama saya adalah membuat hidup (dan pekerjaan) jadi lebih praktis dan efisien.
 
 **Spesialisasi:**
-- Otomatisasi via Google Apps Script (spreadsheet, drive, form)
 - Bot Telegram & sistem internal perusahaan
 - Konversi file dan integrasi sistem perpajakan
 - CLI tools & skrip praktis sehari-hari
