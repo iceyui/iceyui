@@ -21,7 +21,7 @@ Gue ini DevOps dan *developer* yang mendedikasikan hidup untuk menghancurkan pek
 
 ## Senjata Utama
 
-Berikut my *stack* adalan : 
+Berikut my *stack* andalan : 
 
 **Bahasa & Senjata Utama:**
 <p align="left">
