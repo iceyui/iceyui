@@ -19,9 +19,9 @@ Gue ini DevOps dan *developer* yang mendedikasikan hidup untuk menghancurkan pek
 
 ---
 
-## Senjata Buat Nolak Kerja Rodi
+## Senjata Utama
 
-Berikut *stack* andalan gue biar CPU yang kepanasan, bukan otak gue:
+Berikut my *stack* adalan : 
 
 **Bahasa & Senjata Utama:**
 <p align="left">
@@ -48,8 +48,8 @@ Berikut *stack* andalan gue biar CPU yang kepanasan, bukan otak gue:
 
 **Prioritas Utama:**
 <p align="left">
-  <img src="https://img.shields.io/badge/Status-Main%20Wuthering%20Waves-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Side%20Quest-Hollow%20Knight-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Makanan-Menolak%20Semua%20Makanan%20Kecuali%20Ayam%20Geprek-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Karir-Ingin%20Menjadi%20Programer%20Handal%20Namun%20Enggan%20Ngoding-000000?style=for-the-badge" />
 </p>
 
 ---
