@@ -45,6 +45,16 @@ Berikut my *stack* andalan :
   <img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 </p>
 
+**Arsitektur & Tools:**
+<p align="left">
+  <img src="https://img.shields.io/badge/-Cloudflare%20R2-ED7B2F?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PM2-2C3E50?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Coolify-13C296?style=for-the-badge&logo=coolify&logoColor=white" />
+</p>
+
 **Otomatisasi (Biar Bisa Ditinggal Tidur):**
 <p align="left">
   <img src="https://img.shields.io/badge/-Telegram%20Bot-0088CC?style=for-the-badge&logo=telegram&logoColor=white" />
@@ -56,6 +66,34 @@ Berikut my *stack* andalan :
   <img src="https://img.shields.io/badge/Makanan-Menolak%20Semua%20Makanan%20Kecuali%20Ayam%20Geprek-000000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Karir-Ingin%20Menjadi%20Programer%20Handal%20Namun%20Enggan%20Ngoding-000000?style=for-the-badge" />
 </p>
+
+---
+
+## Yang Udah Gue Bangun (Tanpa Link, Soalnya Private)
+
+> *Semua dibangun solo, zero team, zero budget, zero appreciation dari kantor.*
+
+<p align="left">
+  <img src="https://img.shields.io/badge/-Supataxdc-FF6B6B?style=for-the-badge&logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Supacore-4ECDC4?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/-VoucherFlow-FFE66D?style=for-the-badge&logo=chart.js&logoColor=black" />
+  <img src="https://img.shields.io/badge/-SJMatic-A8E6CF?style=for-the-badge&logo=file-pdf&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Supaar-0088CC?style=for-the-badge&logo=telegram&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PurchaseOder-F38020?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/-ConvertFP--Web-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+</p>
+
+| Project | Deskripsi | Stack |
+|---------|-----------|-------|
+| **Supataxdc** | OCR Discord → Supabase + R2. Scan faktur dari channel, auto-extract data, simpan ke cloud | `Python` `Discord.py` `Gemini` `Supabase` `R2` |
+| **Supacore** | Excel → XML e-Faktur pajak. 6 cabang, auto-generate file upload ke DJP | `Python` `Excel` `XML` `e-Faktur` |
+| **VoucherFlow** | Kalkulator bonus otomatis dari data penjualan. Input Excel, output rekap bonus | `Python` `Excel` |
+| **SJMatic** | Generator Surat Jalan PDF otomatis. Tinggal input data, PDF jadi sendiri | `C#` `iText7` `PDF` |
+| **Supaar** | Rekonsiliasi bank via Telegram Bot. Upload mutasi, auto-matching dengan DB | `Python` `Telegram Bot` `Supabase` |
+| **PurchaseOder** | PO → Accurate Accounting. Input PO, otomatis sync ke sistem akuntansi | `Python` `Accurate API` |
+| **ConvertFP-Web** | Konversi Faktur Pajak web app. FastAPI backend + Vite frontend | `Python` `FastAPI` `Vite` `React` |
+
+**Pipeline Inti:** `OCR → Database → Faktur Pajak → Bonus → Surat Jalan`
 
 ---
 
